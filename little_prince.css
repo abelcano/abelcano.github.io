@@ -1,0 +1,15 @@
+body    {
+    margin-left: 100px;
+}
+.all_text   {
+    width: 350px;
+}
+.underlined_text    {
+    text-decoration: underline;
+}
+.orange_background  {
+    background: orange;
+}
+.red_text   {
+    color: red;
+}
